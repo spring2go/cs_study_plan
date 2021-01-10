@@ -84,7 +84,7 @@
 
 参考书籍：[计算机网络：自顶向下方法](http://product.dangdang.com/25299722.html)
 
-参考视频：B站 [斯坦福大学：计算机网络介绍](CS144 计算机网络介绍)
+参考视频：B站 [斯坦福大学：CS144 计算机网络介绍](https://www.bilibili.com/video/BV137411Z7LR)
 
 产出目标：完成CS 144 站点上的所有8个Labs。
 
